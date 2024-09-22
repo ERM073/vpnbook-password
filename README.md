@@ -12,3 +12,6 @@ To spread out the load due to the occasional sudden password updates by VPNBook 
 
 ## Don't worry if vpn_password.txt was last updated days or even months ago.
 This is because the GitHub API does not update the file date if the file content (password) is the same.
+
+## If you have a problem, please report it via ISSUES.
+Please report any problems at https://github.com/ERM073/vpnbook-password/issues
