@@ -1,6 +1,8 @@
 # vpnbook-password
 Real-time VPNBook password.
 
+## ※This repository's technology relies on OCR, making it unstable.
+
 # Please press star on the repository when you use it!
 No license, but please press star on the repository to motivate my development!
 
