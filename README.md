@@ -1,19 +1,26 @@
 # vpnbook-password
-Real-time VPNBook password.
+Real-time VPNBook password retrieved **directly from Facebook (no longer OCR-based)**.
 
-## ※This repository's technology relies on OCR, making it unstable.
+## ✅ Now more accurate: We've switched from OCR to direct Facebook scraping!
 
-# Please press star on the repository when you use it!
-No license, but please press star on the repository to motivate my development!
+The system was improved by scraping directly from the official VPNBook SNS rather than using OCR technology, which is prone to false positives.
 
-I update the password on my home server, so it may be unstable.
+### ⭐ If you use this project, please press the star button to support the development!
 
-## Passwords are updated once every 12 hours. (Updated twice a day)
+No license is applied, but your star encourages me to continue maintaining this service.
 
-To spread out the load due to the occasional sudden password updates by VPNBook and by overloading the VPNVook with passwords.
+The password is retrieved from Facebook using a private home server.  
+Due to Facebook UI changes or restrictions, occasional errors might still occur.
 
-## Don't worry if vpn_password.txt was last updated days or even months ago.
-This is because the GitHub API does not update the file date if the file content (password) is the same.
+## 🔁 Passwords are checked and updated every 12 hours.
 
-## If you have a problem, please report it via ISSUES.
-Please report any problems at https://github.com/ERM073/vpnbook-password/issues
+VPNBook sometimes changes passwords without notice.  
+This project checks and updates twice a day to reduce the risk of outdated info.
+
+## 🕒 Don't worry if `vpn_password.txt` hasn't been updated for days.
+
+If the password hasn’t changed, the GitHub API does not update the file timestamp—this is expected behavior.
+
+## 🛠️ Having issues?
+
+Please report them via [GitHub Issues](https://github.com/ERM073/vpnbook-password/issues)
