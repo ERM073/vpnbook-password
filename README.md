@@ -3,7 +3,13 @@ Real-time VPNBook password retrieved **directly from Facebook (no longer OCR-bas
 
 ## ✅ Now more accurate: We've switched from OCR to direct Facebook scraping!
 
-The system was improved by scraping directly from the official VPNBook SNS rather than using OCR technology, which is prone to false positives.
+The system has been improved by switching from OCR (Optical Character Recognition) to direct scraping of the official VPNBook social media pages. This change avoids the false positives common with OCR and returns to a more reliable scraping method.
+
+### 🔑 Quick Access (Raw Password)
+To get the password directly via script or for simple viewing, use the raw link:
+[https://raw.githubusercontent.com/ERM073/vpnbook-password/refs/heads/main/vpn_password.txt](https://raw.githubusercontent.com/ERM073/vpnbook-password/refs/heads/main/vpn_password.txt)
+
+---
 
 ### ⭐ If you use this project, please press the star button to support the development!
 
